@@ -1,0 +1,19 @@
+{
+  "name": "converter-svg-to-reactjs-comp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "babel-node --inspect src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mrZLab630 <mrz@mrzlab630.pw>",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/node": "^7.4.5",
+    "@babel/preset-env": "^7.5.5",
+    "babel-preset-env": "^1.7.0"
+  }
+}
